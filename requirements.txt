@@ -1,5 +1,4 @@
 cartopy==0.21.1
 xarray>=2023.7.0
 netCDF4>=1.6.4
-pandas>=2.2.2
 matplotlib>=3.8.0
