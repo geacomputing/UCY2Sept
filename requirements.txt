@@ -1,5 +1,5 @@
-cartopy
 xarray
 netCDF4
-pandas
+cartopy
 matplotlib
+pandas
