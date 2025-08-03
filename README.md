@@ -46,6 +46,26 @@ These credentials are necessary to submit simple API requests to download climat
 
 Make sure to keep your credentials confidential and never share them publicly.
 
+Here is an example of what the credentials look like in a configuration file or environment variable:
+
+```plaintext
+url: https://cds.climate.copernicus.eu/api
+key: <PERSONAL-ACCESS-TOKEN>
+```
+
+### Storing Credentials in Google Colab
+
+In a typical local Linux environment, users store such credentials securely in their shell configuration files like `.bashrc` or `.bash_profile`. This approach allows the system or scripts to automatically load and use these sensitive variables without hardcoding them in scripts.
+
+Since Google Colab is a cloud environment without persistent user home directories, we simulate this process by creating a temporary local file during the session that contains the necessary environment variables for the Copernicus Data Store API.
+
+This method helps to:
+
+- Keep credentials separate from the code  
+- Avoid exposing keys directly in notebooks  
+- Make it easier to reuse the credentials throughout the session  
+
+Remember that this file and the environment variables exist only for the duration of your Colab session.
 
 
 ## Event Materials
