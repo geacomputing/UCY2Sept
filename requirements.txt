@@ -3,4 +3,4 @@ netCDF4
 cartopy
 matplotlib
 pandas
-cdsapi
+cdsapi>=0.7.4
