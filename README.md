@@ -2,6 +2,20 @@
 Training for PRof. DIMITRIS STAGONAS - Department of Civil and Environmental Engineering
 
 
+## About GEA COMPUTING
+
+**GEA COMPUTING Ltd.** is a software development and consulting company specializing in environmental data science, geospatial analysis, and scientific computing.  
+We develop tools and platforms for efficient processing, visualization, and interpretation of Earth observation and climate data, with a strong focus on open-source technologies and reproducible research.  
+
+Our collaboration aims to support academic and research projects by providing robust computational solutions tailored to the needs of environmental scientists and engineers.
+
+| Company                | EMS GEA Computing LTD             |
+|------------------------|---------------------------------|
+| Motto                  | Through numbers, the Earth.      |
+| Email                  | office@geacomputing.eu           |
+| Website                | [www.gea-computing.eu](https://www.gea-computing.eu) |
+| Instagram              | [ems_gea_computing](https://www.instagram.com/ems_gea_computing/) |
+
 
 # Workshop Agenda  
 ### Earth Sciences Data Analysis with Python  
@@ -52,6 +66,10 @@ Here is an example of what the credentials look like in a configuration file or 
 url: https://cds.climate.copernicus.eu/api
 key: <PERSONAL-ACCESS-TOKEN>
 ```
+
+### Additional Resources
+
+The official COPERNICCUS webpage [COPERNICUS website](https://cds.climate.copernicus.eu/how-to-api) provides detailed instructions on how to install and configure the CDS API client on your personal machine.
 
 ### Storing Credentials in Google Colab
 
