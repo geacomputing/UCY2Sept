@@ -1,19 +1,23 @@
 # Training_UCY_2Sept
 Training for PRof. DIMITRIS STAGONAS - Department of Civil and Environmental Engineering
 
+## Workshop Overview & Why Copernicus Data?
 
-### Workshop Overview & Why Copernicus Data?
+This workshop is designed to equip participants with practical skills in handling and analyzing Earth Sciences data using Python. Throughout the day, you will explore binary data formats like GRIB2 and NetCDF4, understand their internal structure, and learn how to leverage powerful Python libraries such as `xarray` and `cartopy` for data manipulation and visualization.
 
-This workshop is designed to equip participants with practical skills in handling and analyzing Earth Sciences data using Python. Throughout the day, you will explore binary data formats like GRIB2 and NetCDF4, understand their internal structure, and learn how to leverage powerful Python libraries such as xarray and cartopy for data manipulation and visualization.
+A core part of the workshop focuses on accessing and working with **Copernicus** data — Europe’s flagship Earth observation program. **Note:** In this training, we will be working **exclusively with model-based data products** (i.e., forecast, reanalysis, or climate model outputs), and not with satellite imagery or raw in-situ data.
 
-A core part of the workshop focuses on accessing and working with **Copernicus** data — Europe’s flagship Earth observation program. Copernicus provides open, free, and high-quality climate and environmental data gathered from satellites and in-situ sensors worldwide. These datasets are:
+#### Why Copernicus?
 
-- **Comprehensive and Multi-dimensional:** Covering atmospheric, oceanic, land, and climate variables at global and regional scales.
-- **Consistent and Reliable:** Maintained by trusted European institutions with rigorous quality control.
-- **Timely and Updated:** Offering near-real-time monitoring and historical climate records essential for scientific research and decision-making.
-- **Open Access:** Freely available to everyone, promoting transparency and collaborative research worldwide.
+Copernicus provides open, free, and high-quality climate and environmental data gathered from satellites, in-situ sensors, and models. The datasets are:
 
-By mastering Copernicus data access and analysis workflows, 
+- **Comprehensive and Multi-dimensional**: Covering atmospheric, oceanic, land, and climate variables at global and regional scales.
+- **Consistent and Reliable**: Maintained by trusted European institutions with rigorous quality control.
+- **Timely and Updated**: Offering near-real-time monitoring and long historical records essential for scientific research and environmental decision-making.
+- **Open Access**: Freely available to everyone, promoting transparency and collaborative research worldwide.
+
+By mastering Copernicus **model data** access and analysis workflows, participants will be empowered to conduct robust environmental assessments, climate diagnostics, and develop reproducible tools for sustainability and policy.
+
 
 
 
