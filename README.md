@@ -30,10 +30,10 @@ By mastering Copernicus **model data** access and analysis workflows, participan
 | 09:00 - 09:15  | Welcome & Introduction to the Day                               |
 | 09:15 - 10:00  | Overview of Binary Data in Earth Sciences (GRIB2, NetCDF4)      |
 | 10:00 - 10:45  | Structure and Architecture of NetCDF Files                      |
-| 10:45 - 11:00  | Introduction to Climate Data Operators (CDO) & Copernicus Example |
+| 10:45 - 11:00  | Introduction to Copernicus & Practical Copernicus Example       |
 | 11:00 - 11:30  | Python Essentials for Scientific Data Analysis                  |
 | 11:30 - 13:00  | Introduction to xarray: Why and How                             |
-| 13:00 - 13:45  | Lunch Break                                                    |
+| 13:00 - 13:45  | Lunch Break                                                     |
 | 13:45 - 14:30  | Downloading Data from Copernicus API (Account & Setup)          |
 | 14:30 - 15:15  | Working with NetCDF in Python using xarray                      |
 | 15:15 - 16:00  | Data Slicing, Time Series Extraction, Anomaly & Climatology Computation |
