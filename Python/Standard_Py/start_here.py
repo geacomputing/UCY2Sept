@@ -31,6 +31,10 @@ print(f"Python version: {sys.version}")
 # Remove default sample_data folder if it exists
 !rm -rf /content/sample_data
 
+
+# Install netcdf library (for ncdump)
+! apt-get install -y netcdf-bin
+
 # Clone the GitHub repo (replace with your fork if needed)
 !git clone https://github.com/geacomputing/UCY2Sept.git
 
