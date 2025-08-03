@@ -2,19 +2,20 @@
 Training for PRof. DIMITRIS STAGONAS - Department of Civil and Environmental Engineering
 
 
-## About GEA COMPUTING
+### Workshop Overview & Why Copernicus Data?
 
-**GEA COMPUTING Ltd.** is a software development and consulting company specializing in environmental data science, geospatial analysis, and scientific computing.  
-We develop tools and platforms for efficient processing, visualization, and interpretation of Earth observation and climate data, with a strong focus on open-source technologies and reproducible research.  
+This workshop is designed to equip participants with practical skills in handling and analyzing Earth Sciences data using Python. Throughout the day, you will explore binary data formats like GRIB2 and NetCDF4, understand their internal structure, and learn how to leverage powerful Python libraries such as xarray and cartopy for data manipulation and visualization.
 
-Our collaboration aims to support academic and research projects by providing robust computational solutions tailored to the needs of environmental scientists and engineers.
+A core part of the workshop focuses on accessing and working with **Copernicus** data — Europe’s flagship Earth observation program. Copernicus provides open, free, and high-quality climate and environmental data gathered from satellites and in-situ sensors worldwide. These datasets are:
 
-| Company                | EMS GEA Computing LTD             |
-|------------------------|---------------------------------|
-| Motto                  | Through numbers, the Earth.      |
-| Email                  | office@geacomputing.eu           |
-| Website                | [www.gea-computing.eu](https://www.gea-computing.eu) |
-| Instagram              | [ems_gea_computing](https://www.instagram.com/ems_gea_computing/) |
+- **Comprehensive and Multi-dimensional:** Covering atmospheric, oceanic, land, and climate variables at global and regional scales.
+- **Consistent and Reliable:** Maintained by trusted European institutions with rigorous quality control.
+- **Timely and Updated:** Offering near-real-time monitoring and historical climate records essential for scientific research and decision-making.
+- **Open Access:** Freely available to everyone, promoting transparency and collaborative research worldwide.
+
+By mastering Copernicus data access and analysis workflows, 
+
+
 
 
 # Workshop Agenda  
@@ -89,3 +90,18 @@ Remember that this file and the environment variables exist only for the duratio
 ## Event Materials
 
 This repository also contains a PDF slideshow used during the event. Everything that was projected and presented is available here, so don’t worry if you miss something — you can always retrieve it from this repo.
+
+
+## About GEA COMPUTING
+
+**GEA COMPUTING Ltd.** is a software development and consulting company specializing in environmental data science, geospatial analysis, and scientific computing.  
+We develop tools and platforms for efficient processing, visualization, and interpretation of Earth observation and climate data, with a strong focus on open-source technologies and reproducible research.  
+
+Our collaboration aims to support academic and research projects by providing robust computational solutions tailored to the needs of environmental scientists and engineers.
+
+| Company                | EMS GEA Computing LTD             |
+|------------------------|---------------------------------|
+| Motto                  | Through numbers, the Earth.      |
+| Email                  | office@geacomputing.eu           |
+| Website                | [www.gea-computing.eu](https://www.gea-computing.eu) |
+| Instagram              | [ems_gea_computing](https://www.instagram.com/ems_gea_computing/) |
