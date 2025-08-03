@@ -1,2 +1,53 @@
 # Training_UCY_2Sept
 Training for PRof. DIMITRIS STAGONAS - Department of Civil and Environmental Engineering
+
+
+
+# Workshop Agenda  
+### Earth Sciences Data Analysis with Python  
+
+| Time           | Session Description                                             |
+|----------------|-----------------------------------------------------------------|
+| 09:00 - 09:15  | Welcome & Introduction to the Day                               |
+| 09:15 - 10:00  | Overview of Binary Data in Earth Sciences (GRIB2, NetCDF4)      |
+| 10:00 - 10:45  | Structure and Architecture of NetCDF Files                      |
+| 10:45 - 11:00  | Introduction to Climate Data Operators (CDO) & Copernicus Example |
+| 11:00 - 11:30  | Python Essentials for Scientific Data Analysis                  |
+| 11:30 - 13:00  | Introduction to xarray: Why and How                             |
+| 13:00 - 13:45  | Lunch Break                                                    |
+| 13:45 - 14:30  | Downloading Data from Copernicus API (Account & Setup)          |
+| 14:30 - 15:15  | Working with NetCDF in Python using xarray                      |
+| 15:15 - 16:00  | Data Slicing, Time Series Extraction, Anomaly & Climatology Computation |
+| 16:00 - 16:45  | Visualization: From Time Series to Publication-Ready Maps with cartopy |
+| 16:45 - 17:15  | Final Q&A, Wrap-Up, and Sharing of Resources                    |
+
+
+
+
+## Run the notebook on Google Colab
+
+## Running on Google Colab
+
+This project can be run on [Google Colab](https://colab.research.google.com), which provides free cloud-based Jupyter notebooks.
+
+> **Note:** To use Google Colab, you need a valid Google account. Please ensure you are signed in with your Google credentials to run the notebooks successfully.
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geacomputing/UCY2Sept/blob/main/Python/jupyterNotebooks/start_here.ipynb)
+When viewed on GitHub, you will see the **“Open in Colab”** badge/icon at the top, which you can click to launch the notebook immediately in Google Colab with all the environment setup pre-configured.
+
+
+
+## COPERNICUS Credentials
+
+Students should create an account on the [COPERNICUS website](https://cds.climate.copernicus.eu/how-to-api) and follow the instructions to retrieve their **URL** and **key** variables.
+
+These credentials are necessary to submit simple API requests to download climate data.
+
+Make sure to keep your credentials confidential and never share them publicly.
+
+
+
+## Event Materials
+
+This repository also contains a PDF slideshow used during the event. Everything that was projected and presented is available here, so don’t worry if you miss something — you can always retrieve it from this repo.
