@@ -98,10 +98,12 @@ This repository also contains a PDF slideshow used during the event. Everything 
 
 ## About GEA COMPUTING
 
-**GEA COMPUTING Ltd.** is a software development and consulting company specializing in environmental data science, geospatial analysis, and scientific computing.  
-We develop tools and platforms for efficient processing, visualization, and interpretation of Earth observation and climate data, with a strong focus on open-source technologies and reproducible research.  
 
-Our collaboration aims to support academic and research projects by providing robust computational solutions tailored to the needs of environmental scientists and engineers.
+**GEA COMPUTING Ltd.** is a software development and consulting company focused on environmental data science, geospatial analytics, and scientific computing.  
+We design and build tools and platforms to process, visualize, and interpret Earth observation and climate data efficiently—leveraging open-source technologies and promoting reproducible research practices.
+
+Beyond software, we specialize in **training researchers, institutions, and professionals**, helping them gain hands-on skills in climate data workflows, geospatial processing, and Python-based analysis.
+
 
 | Company                | EMS GEA Computing LTD             |
 |------------------------|---------------------------------|
