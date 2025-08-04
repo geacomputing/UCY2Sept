@@ -1,5 +1,4 @@
 xarray
-netCDF4
 cartopy
 matplotlib
 pandas
