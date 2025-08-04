@@ -55,6 +55,32 @@ This project can be run on [Google Colab](https://colab.research.google.com), wh
 [![Open In Colab]()
 When viewed on GitHub, you will see the **“Open in Colab”** badge/icon at the top, which you can click to launch the notebook immediately in Google Colab with all the environment setup pre-configured.
 
+## Theory
+
+Below are the notebooks covering theoretical concepts. Click the **Open in Colab** badges to launch each notebook directly in Google Colab with environment setup ready.
+
+[1_start_here.ipynb](https://colab.research.google.com/github/geacomputing/UCY2Sept/blob/main/Python_code/Theory/1_start_here.ipynb)  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geacomputing/UCY2Sept/blob/main/Python_code/Theory/1_start_here.ipynb)
+
+[2_Type_of_Variables.ipynb](https://colab.research.google.com/github/geacomputing/UCY2Sept/blob/main/Python_code/Theory/2_Type_of_Variables.ipynb)  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geacomputing/UCY2Sept/blob/main/Python_code/Theory/2_Type_of_Variables.ipynb)
+
+[3_Structure_and_Architecture_of_NetCDF_Files.ipynb](https://colab.research.google.com/github/geacomputing/UCY2Sept/blob/main/Python_code/Theory/3_Structure_and_Architecture_of_NetCDF_Files.ipynb)  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geacomputing/UCY2Sept/blob/main/Python_code/Theory/3_Structure_and_Architecture_of_NetCDF_Files.ipynb)
+
+[4_Introduction_to_Copernicus_and_Practical_Copernicus_Example.ipynb](https://colab.research.google.com/github/geacomputing/UCY2Sept/blob/main/Python_code/Theory/4_Introduction_%20to_Copernicus_and_Practical_Copernicus_Example.ipynb)  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geacomputing/UCY2Sept/blob/main/Python_code/Theory/4_Introduction_%20to_Copernicus_and_Practical_Copernicus_Example.ipynb)
+
+[5_Introduction_to_xarray.ipynb](https://colab.research.google.com/github/geacomputing/UCY2Sept/blob/main/Python_code/Theory/5_Introduction_to_xarray.ipynb)  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geacomputing/UCY2Sept/blob/main/Python_code/Theory/5_Introduction_to_xarray.ipynb)
+
+---
+
+## Hands-on
+
+*(Coming soon)*
+
+You can add the practical notebooks here with the same style when ready.
 
 
 ## COPERNICUS Credentials
