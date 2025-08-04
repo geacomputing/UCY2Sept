@@ -98,6 +98,10 @@ url: https://cds.climate.copernicus.eu/api
 key: <PERSONAL-ACCESS-TOKEN>
 ```
 
+
+![Copernicus Data Store](images/CDS.png)
+
+![Access Credentials](images/credentials.png)
 ### Additional Resources
 
 The official COPERNICCUS webpage [COPERNICUS website](https://cds.climate.copernicus.eu/how-to-api) provides detailed instructions on how to install and configure the CDS API client on your personal machine.
