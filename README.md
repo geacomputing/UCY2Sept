@@ -98,6 +98,7 @@ url: https://cds.climate.copernicus.eu/api
 key: <PERSONAL-ACCESS-TOKEN>
 ```
 
+### Visual Guide: Copernicus Data Store and Access Credentials
 
 ![Copernicus Data Store](images/CDS.png)
 
