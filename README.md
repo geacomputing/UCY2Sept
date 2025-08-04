@@ -78,9 +78,18 @@ Below are the notebooks covering theoretical concepts. Click the **Open in Colab
 
 ## Hands-on
 
-*(Coming soon)*
 
-You can add the practical notebooks here with the same style when ready.
+[6_Downloading_Data_from_Copernicus_API.ipynb](https://github.com/geacomputing/UCY2Sept/blob/main/Python_code/Hands-on/6_Downloading_Data_from_Copernicus_API.ipynb)  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geacomputing/UCY2Sept/blob/main/Python_code/Hands-on/6_Downloading_Data_from_Copernicus_API.ipynb)
+
+[7_Working_with_NetCDF_in_Python_using_xarray.ipynb](https://github.com/geacomputing/UCY2Sept/blob/main/Python_code/Hands-on/7_Working_with_NetCDF_in_Python_using_xarray.ipynb)  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geacomputing/UCY2Sept/blob/main/Python_code/Hands-on/7_Working_with_NetCDF_in_Python_using_xarray.ipynb)
+
+[8_Maps_with_cartopy.ipynb](https://github.com/geacomputing/UCY2Sept/blob/main/Python_code/Hands-on/8_Maps_with_cartopy.ipynb)  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geacomputing/UCY2Sept/blob/main/Python_code/Hands-on/8_Maps_with_cartopy.ipynb)
+
+---
+---
 
 
 ## COPERNICUS Credentials
