@@ -28,7 +28,7 @@ By mastering Copernicus **model data** access and analysis workflows, participan
 | Time           | Session Description                                             |
 |----------------|-----------------------------------------------------------------|
 | 09:00 - 09:15  | Welcome & Introduction to the Day                               |
-| 09:15 - 10:00  | Overview of Binary Data in Earth Sciences (GRIB2, NetCDF4)      |
+| 09:15 - 10:00  | Overview of Binary Data in Earth Sciences (NetCDF4)      |
 | 10:00 - 10:45  | Structure and Architecture of NetCDF Files                      |
 | 10:45 - 11:00  | Introduction to Copernicus & Practical Copernicus Example       |
 | 11:00 - 11:30  | Python Essentials for Scientific Data Analysis                  |
@@ -52,7 +52,7 @@ This project can be run on [Google Colab](https://colab.research.google.com), wh
 > **Note:** To use Google Colab, you need a valid Google account. Please ensure you are signed in with your Google credentials to run the notebooks successfully.
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geacomputing/UCY2Sept/blob/main/Python/jupyterNotebooks/start_here.ipynb)
+[![Open In Colab]()
 When viewed on GitHub, you will see the **“Open in Colab”** badge/icon at the top, which you can click to launch the notebook immediately in Google Colab with all the environment setup pre-configured.
 
 
