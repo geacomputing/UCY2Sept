@@ -52,8 +52,8 @@ This project can be run on [Google Colab](https://colab.research.google.com), wh
 > **Note:** To use Google Colab, you need a valid Google account. Please ensure you are signed in with your Google credentials to run the notebooks successfully.
 
 
-[![Open In Colab]()
-When viewed on GitHub, you will see the **“Open in Colab”** badge/icon at the top, which you can click to launch the notebook immediately in Google Colab with all the environment setup pre-configured.
+Each notebook file can be opened by clicking on its name or the **“Open in Colab”** badge. This will take you directly to Google Colab, where the notebook is pre-configured with all necessary environments and dependencies — ready to run immediately.
+
 
 ## Theory
 
