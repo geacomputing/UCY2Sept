@@ -1,5 +1,5 @@
 # Training_UCY_2Sept
-Training for PRof. DIMITRIS STAGONAS - Department of Civil and Environmental Engineering
+TETHYS Summer School - Hands on Session
 
 ## Workshop Overview & Why Copernicus Data?
 
