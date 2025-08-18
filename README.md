@@ -183,6 +183,19 @@ This approach has two key advantages:
 ### Visual Guide: Copernicus Marine Web-based visualization: MyOcean Pro
 
 ![Copernicus Data Store](images/SST_ocean_viz.png)
+**Figure:** Visualization from *MyOcean Pro* of the dataset  
+*“Mediterranean Sea High Resolution and Ultra High Resolution Sea Surface Temperature Analysis”*  
+(Product ID: `SST_MED_SST_L4_NRT_OBSERVATIONS_010_004`).  
+This Level-4 satellite-based product provides **daily sea surface temperature (SST)** fields over the **Mediterranean Sea**  
+(lat: 30.25°–46°, lon: -18.12°–36.25°) at a spatial resolution of **0.01° × 0.01°**.  
+The dataset covers the period **1 Jan 2008 – 18 Aug 2025** and is updated **daily** (typically at 12:00 and 15:00).  
+
+In the figure, **five user-selected pin points** are visible on the active data map.  
+These pins allow users to **extract time series of SST values at specific locations**, enabling localized temporal analysis in addition to the full gridded fields.
+
+
+
+## Copernicus Marine MyOcean Pro
 It allows you to explore, in real time, all the products available in the catalogue (over 300 datasets), without having to download them first.  
 
 Key features include:
