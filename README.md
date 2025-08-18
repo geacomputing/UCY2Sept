@@ -136,6 +136,29 @@ This method helps to:
 Remember that this file and the environment variables exist only for the duration of your Colab session.
 
 
+
+## Bonus Jupyter Notebook: Exploring Copernicus Marine Data
+
+As a **bonus**, this repository includes a Jupyter Notebook that shows how to explore and download oceanographic data from the **[Copernicus Marine Service](https://marine.copernicus.eu/)**.  
+This is different from the **[Copernicus Climate Data Store (CDS)](https://cds.climate.copernicus.eu/)**:  
+- The **CDS** focuses on climate reanalysis, forecasts, and atmospheric data.  
+- The **Marine Service** provides ocean-focused products, with **over 300 datasets** in its catalogue, including sea surface temperature, salinity, currents, sea level, ocean color, and biogeochemistry.  
+
+### What the notebook does
+
+1. **Install dependencies**  
+   - [`copernicusmarine`](https://help.marine.copernicus.eu/en/collections/4107316-copernicus-marine-toolbox) → official toolbox to query/download data.  
+   - [`xarray`](https://docs.xarray.dev/en/stable/) → handle NetCDF multidimensional data.  
+   - [`matplotlib`](https://matplotlib.org/) → visualize results.  
+
+2. **Authenticate with Copernicus Marine**  
+   Uses:
+   ```python
+   import copernicusmarine
+   copernicusmarine.login()
+
+
+
 ## Event Materials
 
 This repository also contains a PDF slideshow used during the event. Everything that was projected and presented is available here, so don’t worry if you miss something — you can always retrieve it from this repo.
