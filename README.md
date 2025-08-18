@@ -180,7 +180,9 @@ This approach has two key advantages:
 [9_API_copernicus_marine.ipynb](https://github.com/geacomputing/UCY2Sept/blob/main/Python_code/Hands-on/9_API_copernicus_marine.ipynb)  
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geacomputing/UCY2Sept/blob/main/Python_code/Hands-on/9_API_copernicus_marine.ipynb)
 
+### Visual Guide: Copernicus Marine Web-based visualization: MyOcean Pro
 
+![Copernicus Data Store](images/SST_ocean_viz.png)
 
 ## Event Materials
 
