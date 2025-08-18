@@ -183,6 +183,17 @@ This approach has two key advantages:
 ### Visual Guide: Copernicus Marine Web-based visualization: MyOcean Pro
 
 ![Copernicus Data Store](images/SST_ocean_viz.png)
+It allows you to explore, in real time, all the products available in the catalogue (over 300 datasets), without having to download them first.  
+
+Key features include:
+- **Interactive map navigation** → zoom and pan across global and regional oceans.  
+- **Overlay multiple products** → for example, compare sea surface temperature with currents or salinity.  
+- **Time navigation** → step forward/backward in time or animate a product to view its temporal evolution.  
+- **Vertical exploration** → for 3D products, browse different **depth levels** in the ocean.  
+- **Custom visualization settings** → adjust color maps, value ranges, contour steps, and other display options to best highlight the data.  
+
+This makes *MyOcean Pro* an excellent companion to the Python-based workflow: you can first **explore datasets visually** online, then use the Copernicus Marine Toolbox to **download tailored subsets** for deeper analysis in Jupyter or Colab.
+
 
 ## Event Materials
 
