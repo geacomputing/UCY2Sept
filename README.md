@@ -90,8 +90,6 @@ Below are the notebooks covering theoretical concepts. Click the **Open in Colab
 [8_Maps_with_cartopy.ipynb](https://github.com/geacomputing/UCY2Sept/blob/main/Python_code/Hands-on/8_Maps_with_cartopy.ipynb)  
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geacomputing/UCY2Sept/blob/main/Python_code/Hands-on/8_Maps_with_cartopy.ipynb)
 
-[9_API_copernicus_marine.ipynb](https://github.com/geacomputing/UCY2Sept/blob/main/Python_code/Hands-on/9_API_copernicus_marine.ipynb)  
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geacomputing/UCY2Sept/blob/main/Python_code/Hands-on/9_API_copernicus_marine.ipynb)
 
 ---
 ---
@@ -156,6 +154,31 @@ This is different from the **[Copernicus Climate Data Store (CDS)](https://cds.c
    ```python
    import copernicusmarine
    copernicusmarine.login()
+
+When you run `copernicusmarine.login()`, you will be prompted to enter your **Copernicus Marine credentials** (username and password, or API key).  
+These credentials are securely stored in an **encrypted local configuration file**.  
+- This means you do not need to re-enter them every time you make a request.  
+- The login information persists **for the duration of your Jupyter or Google Colab session**.  
+- Each time you start a new session, you will be asked to authenticate again.  
+
+This mechanism ensures both convenience and security: your credentials are not exposed in the notebook code, but remain available while you work with Copernicus Marine datasets.
+
+### Downloading Large Files in Colab (Without Storing Them on GitHub)
+
+By using `copernicusmarine.login()` together with the `copernicusmarine.subset()` function, you can request and download **large datasets directly into your Colab runtime**.  
+
+This approach has two key advantages:
+1. **No need to store data in the repository**  
+   The NetCDF files are downloaded only into the **active Colab session** (temporary storage).  
+   This keeps your GitHub repo lightweight and avoids uploading gigabytes of binary data.  
+
+2. **On-demand access to big data**  
+   Since the files are generated dynamically from the Copernicus Marine servers, you can request exactly the spatial, temporal, and variable subsets you need — even if the original dataset is hundreds of gigabytes in size.  
+
+⚠️ Note: Data stored in Colab is **temporary** and will be lost once the session ends. If you want to keep the files, you can manually download them from Colab to your local machine or export them to Google Drive.
+
+[9_API_copernicus_marine.ipynb](https://github.com/geacomputing/UCY2Sept/blob/main/Python_code/Hands-on/9_API_copernicus_marine.ipynb)  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geacomputing/UCY2Sept/blob/main/Python_code/Hands-on/9_API_copernicus_marine.ipynb)
 
 
 
