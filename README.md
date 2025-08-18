@@ -78,6 +78,8 @@ Below are the notebooks covering theoretical concepts. Click the **Open in Colab
 
 ## Hands-on
 
+[5-A_Challenge_Daily_climatology.ipynb](https://github.com/geacomputing/UCY2Sept/blob/main/Python_code/Hands-on/5-A_Challenge_Daily_climatology.ipynb)  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geacomputing/UCY2Sept/blob/main/Python_code/Hands-on/5-A_Challenge_Daily_climatology.ipynb)
 
 [6_Downloading_Data_from_Copernicus_API.ipynb](https://github.com/geacomputing/UCY2Sept/blob/main/Python_code/Hands-on/6_Downloading_Data_from_Copernicus_API.ipynb)  
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geacomputing/UCY2Sept/blob/main/Python_code/Hands-on/6_Downloading_Data_from_Copernicus_API.ipynb)
