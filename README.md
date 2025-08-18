@@ -88,6 +88,9 @@ Below are the notebooks covering theoretical concepts. Click the **Open in Colab
 [8_Maps_with_cartopy.ipynb](https://github.com/geacomputing/UCY2Sept/blob/main/Python_code/Hands-on/8_Maps_with_cartopy.ipynb)  
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geacomputing/UCY2Sept/blob/main/Python_code/Hands-on/8_Maps_with_cartopy.ipynb)
 
+[9_API_copernicus_marine.ipynb](https://github.com/geacomputing/UCY2Sept/blob/main/Python_code/Hands-on/9_API_copernicus_marine.ipynb)  
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geacomputing/UCY2Sept/blob/main/Python_code/Hands-on/9_API_copernicus_marine.ipynb)
+
 ---
 ---
 
