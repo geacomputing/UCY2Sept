@@ -230,3 +230,4 @@ Beyond software, we specialize in **training researchers, institutions, and prof
 | Email                  | office@geacomputing.eu           |
 | Website                | [www.gea-computing.eu](https://www.gea-computing.eu) |
 | Instagram              | [ems_gea_computing](https://www.instagram.com/ems_gea_computing/) |
+| YouTube                | [YouTube Channel](https://www.youtube.com/@GEAComputingLtd./videos) |
