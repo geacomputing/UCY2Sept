@@ -213,7 +213,7 @@ This makes *MyOcean Pro* an excellent companion to the Python-based workflow: yo
 This repository also contains a PDF slideshow used during the event. Everything that was projected and presented is available here, so don’t worry if you miss something — you can always retrieve it from this repo.
 Also, there is a video realized in ParaView, to animate SST data, downloaded and processed from Copernicus Marine:
 
-## Watch the Video
+### Watch the Video
 [![Watch on YouTube](https://img.shields.io/badge/YouTube-Video-red?logo=youtube&logoColor=white)](https://youtu.be/7VTVGDZSS0g)
 
 ## About GEA COMPUTING
