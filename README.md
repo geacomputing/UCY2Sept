@@ -45,7 +45,6 @@ By mastering Copernicus **model data** access and analysis workflows, participan
 
 ## Run the notebook on Google Colab
 
-## Running on Google Colab
 
 This project can be run on [Google Colab](https://colab.research.google.com), which provides free cloud-based Jupyter notebooks.
 
