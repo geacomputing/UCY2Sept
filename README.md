@@ -67,7 +67,7 @@ Below are the notebooks covering theoretical concepts. Click the **Open in Colab
 [3_Structure_and_Architecture_of_NetCDF_Files.ipynb](https://colab.research.google.com/github/geacomputing/UCY2Sept/blob/main/Python_code/Theory/3_Structure_and_Architecture_of_NetCDF_Files.ipynb)  
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geacomputing/UCY2Sept/blob/main/Python_code/Theory/3_Structure_and_Architecture_of_NetCDF_Files.ipynb)
 
-[4_Introduction_to_Copernicus_and_Practical_Copernicus_Example.ipynb](https://colab.research.google.com/github/geacomputing/UCY2Sept/blob/main/Python_code/Theory/4_Introduction_%20to_Copernicus_and_Practical_Copernicus_Example.ipynb)  
+[4_Introduction_to_Copernicus_and_Practical_Copernicus_Example.ipynb](https://colab.research.google.com/github/geacomputing/UCY2Sept/blob/main/Python_code/Theory/4_Introduction_to_Copernicus_and_Practical_Copernicus_Example.ipynb)  
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/geacomputing/UCY2Sept/blob/main/Python_code/Theory/4_Introduction_%20to_Copernicus_and_Practical_Copernicus_Example.ipynb)
 
 [5_Introduction_to_xarray.ipynb](https://colab.research.google.com/github/geacomputing/UCY2Sept/blob/main/Python_code/Theory/5_Introduction_to_xarray.ipynb)  
